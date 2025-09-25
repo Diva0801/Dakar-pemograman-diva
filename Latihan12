@@ -1,0 +1,7 @@
+buah=("apel","manga","jeruk","pisang")
+print ("elemen pertama :",buah[0]) #output:apel
+print("elemen terakhir:",buah[0:2]) #output: ('apel,' 'manga')
+#panjang tuple
+print("jumlah buah:",len(buah))#output:4
+#mengecek keberadaan elemen
+print("apakah'mangga'ada?","mangga" in buah) #output:true
