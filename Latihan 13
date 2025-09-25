@@ -1,0 +1,5 @@
+nama="diva"
+umur=16
+tinggi=151
+print(f"nama: {nama}, umur: {umur}, tinggi: {tinggi} cm")
+print(f"tahun lahir:{2025-umur}")
