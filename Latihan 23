@@ -1,0 +1,12 @@
+# multiple_sequences_while.py
+
+people = ['sri', 'sipa', 'esa', 'keya']
+ages = [16, 16, 15, 16]
+
+position = 0
+while position < len(people):
+    person = people[position]
+    age = ages[position]
+    print(person, age)
+    position +=1
+    
