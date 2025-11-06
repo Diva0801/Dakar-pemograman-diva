@@ -1,0 +1,7 @@
+def perkalian(a, b):
+    hasil = a * b
+    return hasil
+# Program utama
+x = int(input("Masukkan angka pertama: "))
+y = int(input("Masukkan angka kedua: "))
+print("Hasil perkalian:", perkalian(x, y))
